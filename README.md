@@ -39,7 +39,7 @@ test("flushPromises", async () => {
     a = 1;
   }).then(() => {
     b = 2;
-  })
+  });
  
   await flushPromises();
  
