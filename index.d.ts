@@ -1,1 +1,4 @@
-export declare function flushPromises(): Promise<any>;
+declare function flushPromises(): Promise<any>;
+declare namespace flushPromises {}
+
+export = flushPromises;
