@@ -29,7 +29,7 @@ test('flushPromises', async () => {
 ## TypeScript
 
 ```ts
-import * as flushPromises from "flush-promises";
+import flushPromises from "flush-promises";
 
 test("flushPromises", async () => {
   let a;
