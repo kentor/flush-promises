@@ -3,6 +3,9 @@
   "version": "1.0.2",
   "description": "Flush promises in tests",
   "main": "index.js",
+  "files": [
+    "index.js"
+  ],
   "scripts": {
     "test": "jest"
   },
