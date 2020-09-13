@@ -1,6 +1,6 @@
 # flush-promises
 
-[![Build Status](https://travis-ci.org/kentor/flush-promises.svg)](https://travis-ci.org/kentor/flush-promises) [![npm](https://img.shields.io/npm/v/flush-promises.svg)](https://www.npmjs.com/package/flush-promises)
+[![Build Status](https://travis-ci.org/kentor/flush-promises.svg)](https://travis-ci.org/kentor/flush-promises) [![npm](https://img.shields.io/npm/v/flush-promises.svg)](https://www.npmjs.com/package/flush-promises) [![install size](https://packagephobia.com/badge?p=flush-promises)](https://packagephobia.com/result?p=flush-promises)
 
 Flush all pending resolved promise handlers. Useful in tests.
 
