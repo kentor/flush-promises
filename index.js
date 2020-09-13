@@ -1,3 +1,5 @@
+'use strict';
+
 var scheduler = typeof setImmediate === 'function' ? setImmediate : setTimeout;
 
 function flushPromises() {
